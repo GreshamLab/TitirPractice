@@ -1,2 +1,2 @@
 # TitirPractice
-This is a practice repe to get Titir started with github.
+This is a practice repo to get Titir started with github.
